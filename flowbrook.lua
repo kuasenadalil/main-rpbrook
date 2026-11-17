@@ -2,7 +2,7 @@ getgenv().FlowHubConfig = getgenv().FlowHubConfig or {}
 local FlowHubConfig = getgenv().FlowHubConfig
 local API_URL = FlowHubConfig.ApiUrl or "https://api-unan.vercel.app/api"
 local DISCORD_INVITE = FlowHubConfig.Discord or "https://discord.gg/B6AYjVJKf"
-local FLOW_ICON = "rbxassetid://129402195808838"
+local FLOW_ICON = "rbxassetid://120379600680907"
 
 
 local t1 = {
